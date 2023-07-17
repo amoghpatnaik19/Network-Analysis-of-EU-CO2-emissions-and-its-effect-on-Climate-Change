@@ -1,0 +1,36 @@
+Id,Label
+c1,Germany
+c2,Poland
+c3,United Kingdom
+c4,Italy
+c5,Spain
+a1,Aviation
+a2,Combustion of fuels
+a3, All stationary installations
+a4, Refining of mineral oil
+a5, All industrial installations (excl. combustion)
+a6, Production of coke
+a7,Metal ore roasting or sintering
+a8, Production of pig iron or steel
+a9,Production or processing of ferrous metals
+a10,Production of primary aluminium
+a11,Production of secondary aluminium
+a12,Production or processing of non-ferrous metals
+a13,Production of cement clinker
+a14,"Production of lime, or calcination of dolomite/magnesite"
+a15,Manufacture of glass
+a16,Manufacture of ceramics
+a17,Manufacture of mineral wool
+a18,Production or processing of gypsum or plasterboard
+a19,Production of pulp
+a20,Production of paper or cardboard
+a21,Production of carbon black
+a22,Production of nitric acid
+a23,Production of adipic acid
+a24,Production of glyoxal and glyoxylic acid
+a25,Production of ammonia
+a26,Production of bulk chemicals
+a27,Production of hydrogen and synthesis gas
+a28,Production of soda ash and sodium bicarbonate
+a29,Capture of greenhouse gases under Directive 2009/31/EC
+a30,Other activities
